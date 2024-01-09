@@ -1,3 +1,10 @@
+# ignore content
+VOCdevkit/
+logs/
+.temp_miou_out/
+miou_out/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
